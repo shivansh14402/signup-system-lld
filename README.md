@@ -12,7 +12,7 @@ The project demonstrates how common design patterns can be combined to build a s
 
 > Save the class diagram image inside `assets/class-diagram.png`
 
-![Class Diagram](./assets/class-diagram.png)
+<img width="1181" height="1331" alt="SignupClassDisgram" src="https://github.com/user-attachments/assets/79716ea9-9197-40d7-a2dd-0223f81c2e0a" />
 
 ---
 
@@ -184,3 +184,4 @@ No changes are required in the business workflow, following the **Open/Closed Pr
 ---
 
 ### ⭐ If you found this project useful, consider giving it a star!
+
